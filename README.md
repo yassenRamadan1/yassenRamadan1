@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an Android AR Project.<br>I'm looking to collaborate on https://github.com/TheChance101/beep-beep, https://github.com/TheChance101/AAY-chart.<br>I'm currently learning KMP and AR.<br>Ask me about Android Development.
+I'm currently working on an Android AR Project.<br>I'm currently learning KMP and AR.<br>Ask me about Android Development.
 
 
 ## 🌐 Socials:
